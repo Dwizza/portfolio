@@ -1,0 +1,15 @@
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    /* border: 3px solid #186B46; */
+    background-color: #155f3e;
+    border-radius: 10px;
+}
+#navbar{
+    margin-top: 50px;
+}
+#navbar p:hover{
+    color: #fff;
+    transition: background-color 0.3s ease-in-out;
+}
